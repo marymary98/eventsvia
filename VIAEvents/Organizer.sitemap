@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default" title="Home"  description="Home page">
+    <siteMapNode url="Organizer/CreateEvent.aspx" title="Create an event"  description="Page for creating events" />
+    <siteMapNode url="Organizer/EditEvent.aspx" title="Edit an event"  description="Edit an event" />
+    </siteMapNode>
+</siteMap>
+
